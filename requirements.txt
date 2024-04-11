@@ -3,6 +3,5 @@ djangorestframework
 django-filter
 django-cors-headers
 djangorestframework-simplejwt
-mysqlclient
 PyJWT
 PyMySQL
